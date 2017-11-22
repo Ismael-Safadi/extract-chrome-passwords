@@ -7,11 +7,11 @@ please , Don't use this tool on hacking , just use it on penetration testing
 <br>
 just run it , then you will get zip file on you email contain [url,uesrname,passowrds]
 <br>
-make sure to install al librarys on script 
+make sure to install all librarys on script 
 <br>
-to convert thie script to exe 
+to convert this script to exe 
 <br>
-you sould save it as (.pyw) 
+you should save it as (.pyw) 
 <br>
 then install "pyinstaller"
 <br>

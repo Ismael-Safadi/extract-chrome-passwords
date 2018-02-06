@@ -18,3 +18,5 @@ then install "pyinstaller"
 then just write this command on CMD ,, 'pyinstaller -F script.pyw'
 <br>
 Thank you for using my tool ^__^ .
+<br>
+<h1>No responsibility for abuse</h1>
